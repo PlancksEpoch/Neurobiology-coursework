@@ -1,6 +1,6 @@
 # Neurobiology-coursework
 
-This repository contains several assignments from the final phase of my neurobiology undergraduate degree. These projects serve as the foundation for much of my later research, where I explore the ethical use of virtual reality to investigate naturalistic human behaviors. While my writing has evolved since completing these deliverables, I remain proud of the ideas they represent.
+This repository contains several assignments from the final phase of my neurobiology undergraduate degree. These projects serve as the foundation for much of my later research, where I explore the ethical use of virtual reality to investigate naturalistic human behaviors. While my writing has improved since completing these assignments, I remain proud of the ideas they represent.
 
 The repo is separated into two sections:
 1) **Human and Animal Behavior**: This folder highlights the physical science behind behavior, with work in ethology, neurology, and endocrinology.
